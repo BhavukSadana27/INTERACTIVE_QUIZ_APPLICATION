@@ -11,14 +11,21 @@ It’s designed to help users learn, test their knowledge, and track progress ac
 
 ###  **Key Features**
 
-✅ **Category Selection** – Choose from multiple quiz categories like JavaScript, HTML, CSS, General Knowledge, Science, and History.
-✅ **Dynamic Quiz Screen** – Displays questions, answer options, and a progress bar.
-✅ **Controls** – Navigate with Previous, Next, Skip, and Submit buttons for flexible quiz-taking.
-✅ **Instant Feedback** – See immediate feedback after answering to reinforce learning.
-✅ **Results Screen** – View final score, motivational message, and options to restart, review answers, or view saved results.
-✅ **Review Answers** – Check detailed explanations for each question after the quiz.
-✅ **Results History** – See a saved list of past quiz scores and track improvement.
-✅ **About Screen** – Learn what the app offers and how it helps you grow.
+ **Category Selection** – Choose from multiple quiz categories like JavaScript, HTML, CSS, General Knowledge, Science, and History.
+ 
+ **Dynamic Quiz Screen** – Displays questions, answer options, and a progress bar.
+ 
+ **Controls** – Navigate with Previous, Next, Skip, and Submit buttons for flexible quiz-taking.
+ 
+ **Instant Feedback** – See immediate feedback after answering to reinforce learning.
+ 
+ **Results Screen** – View final score, motivational message, and options to restart, review answers, or view saved results.
+ 
+ **Review Answers** – Check detailed explanations for each question after the quiz.
+ 
+ **Results History** – See a saved list of past quiz scores and track improvement.
+ 
+ **About Screen** – Learn what the app offers and how it helps you grow.
 
 ---
 
