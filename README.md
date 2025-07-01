@@ -1,8 +1,20 @@
 
 
----
 
 ##  **Immersive Quiz App**
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : BHAVUK SADANA
+
+INTERN ID : CT06DG454
+
+DOMAIN : FRONTEND WEB DEVELOPMENT
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+DESCRIPTION :
 
 The **Immersive Quiz App** is an interactive, browser-based quiz platform built with **HTML**, **CSS**, and **JavaScript**.
 It’s designed to help users learn, test their knowledge, and track progress across different topics through an engaging interface.
